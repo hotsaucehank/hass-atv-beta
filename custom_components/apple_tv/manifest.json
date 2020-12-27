@@ -1,10 +1,10 @@
 {
   "domain": "apple_tv",
-  "name": "Apple TV",
+  "name": "Apple TV (Power Beta)",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/apple_tv",
   "requirements": [
-    "pyatv==0.6.1"
+    "pyatv==0.7.3"
   ],
   "zeroconf": [
     "_mediaremotetv._tcp.local.",
